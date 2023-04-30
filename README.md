@@ -1,2 +1,2 @@
-# Suicidal-Detection-Sentiment-Analysis
-Sentiment Analysis UsingTensorFlow
+# Suicidal-Detection-Sentimet-Analysis
+Suicidal-Detection-Sentimet-Analysis
