@@ -158,6 +158,10 @@ Suicide_Detection.csv
 
 # Model
 Model_Basic_Embedding.h5
+Basic-Model-Embeding-Layers.h5
+Model-Basic-Global-Average-Pooling.h5
+Model-Embedding-Conv1D.h5
+Model/Basic Model Embeding Layers.h5
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
